@@ -37,3 +37,5 @@ doc
 .tool-versions
 .idea/
 app/assets/builds/
+#Ignore files
+INFO.md
